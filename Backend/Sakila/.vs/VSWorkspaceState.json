@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp2.2",
+    "\\Controllers",
+    "\\Controllers\\ChapterController",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Repository",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Repository\\CourseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
